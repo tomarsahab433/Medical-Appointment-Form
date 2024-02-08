@@ -1,0 +1,56 @@
+:root{
+  --bs-blue: #344866;
+    --bs-sky: #2f8146;
+    --bs-sky: #70bbab;
+    --bs-purple: #b50e1c;
+    --bs-purple: #606792;
+    --bs-pink: #af4e28;
+    --bs-red: #dc3545;
+    --bs-orange: #68ada8;
+    /* --bs-neavy: #F2EC9B; */
+}
+.bg-sky{
+  background: var(--bs-sky);
+}
+.bg-purple{
+  background: var(--bs-purple);
+}
+.bg-orange{
+  background: var(--bs-orange);
+}
+.text-purple{
+  color: var(--bs-purple);
+
+}
+.text-sky{
+  color: var(--bs-sky);
+}
+.text-pink{
+  color: var(--bs-pink);
+}
+.containt{
+  margin-top: 80px;
+}
+.hero{
+  background-image: url(../Photo/Numetry03.png);
+  height: 700px;
+  /* margin-left: -10%; */
+  margin-top: 10%;
+}
+.homeform{
+  margin-top: 10%;
+}
+.homehad{
+  margin-top: 50%;
+}
+.texthero {
+  color: red;
+}
+.servicess{
+  margin-top: 10%;
+}
+
+
+
+
+
